@@ -105,7 +105,7 @@ Requests, Manage Patches, Apply a Patch
 References:
 1. Oracle Database 19c DBA By Examples: Installation and Administration, Ravindra
 Gupta, 2021.
-2. https://docs.oracle.com/en/database/oracle/oracle-database/19/administration.html
+2. https://docs.oracle.com/en/database/oracle/oracle-database/23/administration.html
 3. Pro Oracle Database 18c Administration: Manage and Safeguard Your Organization’s
 Data, Michelle Malcher and Darl Kuhn, Third Edition.
 4. Oracle Database 12c DBA Handbook, Manage a Scalable, Secure Oracle Enterprise
