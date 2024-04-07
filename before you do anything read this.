@@ -1,0 +1,87 @@
+Dear students, before you proceed to write notes or contribute in this repository please read the following and do the formatting as needed.
+
+Markdown Syntax Cheat Sheet:
+
+Headings:
+
+    Heading 1: # H1
+
+    Heading 2: ## H2
+
+    Heading 3: ### H3
+
+    ... up to ###### H6
+
+Lists:
+
+    Unordered List:
+
+        Use *, -, or + followed by a space for each item.
+
+        Example:
+      
+* Item 1
+* Item 2
+* Item 3
+
+    Ordered List:
+
+        Use numbers followed by a period and space for each item.
+
+        Example:
+
+      
+1. First item
+2. Second item
+3. Third item
+
+
+Links:
+
+    Inline Link: [Link Text](URL)
+
+    Reference Link:
+
+        [Link Text][Reference Label]
+
+        [Reference Label]: URL (placed anywhere in the document)
+
+Images:
+
+    Inline Image: ![Alt Text](Image URL)
+
+    Reference Image: Similar to reference links, but with a ! before the reference label.
+
+Code Blocks:
+
+    Fenced Code Blocks: Use three backticks (```) before and after the code block. Optionally specify the language after the opening backticks for syntax highlighting.
+
+    Inline Code: Use single backticks (`) around the code snippet.
+
+Other Formatting:
+
+    Bold: **bold text** or __bold text__
+
+    Italics: *italicized text* or _italicized text_
+
+    Blockquote: > Quoted text
+
+    Horizontal Rule: --- or ***
+
+    Tables: (See GitHub Flavored Markdown documentation for specific syntax)
+
+Additional Resources:
+
+    GitHub Flavored Markdown Spec: https://github.github.com/gfm/
+
+    Markdown Guide: https://www.markdownguide.org/
+
+    Online Markdown Editors: Many online editors allow you to write and preview Markdown formatting in real-time.
+
+Tips:
+
+    Use a consistent style for headings and formatting throughout your document.
+
+    Preview your Markdown before committing to ensure it looks as intended.
+
+    Explore the various Markdown features and extensions to enhance your documents.
